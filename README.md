@@ -68,7 +68,7 @@ Este sistema mede constantemente a distância entre o sensor e a superfície da 
 
 ## ✨ Imagens do Projeto
 
-![image](https://github.com/user-attachments/assets/e42656ea-5df4-4dcf-ba01-6299ec22c67f)
+![image](https://github.com/user-attachments/assets/10c68bb6-6239-4005-a5f6-eb5897e05be5)
 ![image](https://github.com/user-attachments/assets/985ccc7e-e554-449f-8a6d-ec7e71200201)
 ![image](https://github.com/user-attachments/assets/4fbc041f-f2fa-47dc-8672-773ca43ee6e6)
 ![image](https://github.com/user-attachments/assets/bf813c7d-f534-4ffc-b2f4-24659ce92503)
