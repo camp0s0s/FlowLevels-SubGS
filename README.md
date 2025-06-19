@@ -1,31 +1,27 @@
-# FlowLevels-SubGS
+# 🌊🌧💧 FlowLevels: Sistema de Prevenção de Alagamentos Residenciais
 
-# 🌊 OverFlowen: Sistema de Prevenção de Alagamentos Residenciais
-
-Este projeto foi desenvolvido como possível solução para um problema real relacionado às enchentes.
-Projeto realizado para o Global Sotution da matéria Edge Computing & Computer Sistems do curso de Engenharia de Software da FIAP.
+Este projeto foi desenvolvido como possível solução para um problema real relacionado às enchentes, com o uso de barreiras.
+Projeto foi realizado para o Global Sotution da matéria Edge Computing & Computer Sistems do curso de Engenharia de Software da FIAP.
 
 ## 🔗 Links
 
 Você pode visualizar o projeto no Wokwi e no YouTube pelos links abaixo:
 
-👉 [Visualizar Projeto no Wokwi](https://wokwi.com/projects/432846681622453249)
+👉 [Visualizar Projeto no Wokwi](https://wokwi.com/projects/434202752832046081)
 
 📺 [Visualizar Explicação do Projeto no YouTube](https://youtu.be/1Rykeh_i0nM)
 
 ## 🙋‍♂️ Equipe
 
-- [Pedro Faleiros](https://github.com/pedrofaleirosss)
-- [Luan Felix](https://github.com/luansfff)
-- [João Lopes](https://github.com/Joaolopes1311)
+- [Felipe Campos](https://github.com/camp0s0s)
 
 ## 📌 Descrição
 
-**OverFlowen** é um sistema de monitoramento e resposta rápida contra alagamentos residenciais. Utiliza sensores para medir o nível da água em tempo real e aciona alertas visuais, sonoros e uma barreira física automática para proteger ambientes internos da casa.
+**FlowLevels** é um sistema de monitoramento e resposta rápida contra alagamentos residenciais. Utiliza sensores ultrassônicos para medir o nível da água em tempo real e aciona alertas visuais, sonoros e uma barreira física automática para proteger ambientes internos da casa.
 
 ## 🏠 Problema
 
-Alagamentos causados por chuvas intensas ou retorno da água de esgoto são comuns em diversas regiões urbanas. Eles trazem prejuízos materiais, riscos à saúde e perda de documentos e bens pessoais. A detecção precoce e uma resposta automática são cruciais para minimizar esses danos.
+Alagamentos causados por chuvas intensas ou retorno da água de esgoto são comuns em diversas áreas residencias. Eles trazem prejuízos materiais, riscos à saúde e perda de documentos e bens pessoais. A detecção precoce e uma resposta automática são cruciais para minimizar esses danos.
 
 ## ✅ Solução Proposta
 
