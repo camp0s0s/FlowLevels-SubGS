@@ -9,7 +9,7 @@ Você pode visualizar o projeto no Wokwi e no YouTube pelos links abaixo:
 
 👉 [Visualizar Projeto no Wokwi](https://wokwi.com/projects/434202752832046081)
 
-📺 [Visualizar Explicação do Projeto no YouTube](https://youtu.be/1Rykeh_i0nM)
+📺 [Visualizar Explicação do Projeto no YouTube](https://youtu.be/9_xRB8x4018)
 
 ## 🙋‍♂️ Equipe
 
